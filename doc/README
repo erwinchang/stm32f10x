@@ -1,0 +1,32 @@
+## 文件來源
+
+* [嵌入式系統建構：開發運作於STM32的韌體程式][1]
+* 簡体 [Cortex-M3权威指南][3]
+175619_296.pdf
+
+* [車載網路系統][4]
+CAN.pdf
+* [In-Vehicle Networking][5]
+LIN.pdf
+
+
+### 其它可以參考的來源
+
+* [ECE 373 References][2]
+* http://www.realsense.com.cn
+* [嵌入式系統應用實驗室][6]
+    * [ARM Cortex-M0 Introduction][7]
+
+
+ * source code: [stm32-tutorial - default][8]
+
+
+
+[1]:http://wiki.csie.ncku.edu.tw/embedded/Lab19/stm32-prog.pdf
+[2]:http://www.eecs.umich.edu/courses/eecs373/refs.html
+[3]:http://www.realsense.com.cn/download/20100617/175619_296.pdf
+[4]:http://www.vr.ncue.edu.tw/esa/a1014/CAN.pdf
+[5]:http://www.vr.ncue.edu.tw/esa/a1014/LIN.pdf
+[6]:http://www.vr.ncue.edu.tw/esa/
+[7]:http://www.vr.ncue.edu.tw/esa/b1011/ch1.1.pdf
+[8]:https://code.google.com/archive/p/stm32-tutorial/source/default/source
