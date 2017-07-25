@@ -1,0 +1,21 @@
+= Introduction =
+
+This project is just a toy of an amateur STM32 programmer.
+
+
+= Details =
+
+Software:
+ Ubuntu 9.10
+
+ GNU Make
+
+ GCC Cross compiler is download from CodeSourcery websit: arm-2010q1
+
+ OpenOCD
+
+Hardware:
+ OpenJTAG
+
+ 奋斗版STM32开发板
+ 
